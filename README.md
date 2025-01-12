@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrEditBro
-- 👀 I’m interested in creating bots and games
-- 🌱 I’m currently learning Python, Web
-- 📫 How to reach me: Discord - @MrEditBro#7078
+- 👀 I’m interested in creating bots, apps
+- 🌱 I’m currently learning Python and C++
+- 📫 How to reach me: Discord - MrEdit11
 
 <!---
 MrEditBro/MrEditBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
